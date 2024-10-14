@@ -1,0 +1,3 @@
+[submodule "libs/aarch64-crc"]
+	path = libs/aarch64-crc
+	url = https://github.com/yangshunyong/aarch64-crc
